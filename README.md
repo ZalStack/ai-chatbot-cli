@@ -71,10 +71,6 @@ AI Chatbot CLI adalah aplikasi chatbot terminal yang dibangun dengan **C++** dan
 
 ## 🚀 Instalasi
 
-### Linux (Fedora/Ubuntu/Arch)
-
-#### Metode 1: Instalasi Otomatis
-
 ```bash
 # Clone repository
 git clone https://github.com/ZalStack/ai-chatbot-cli.git
